@@ -1,8 +1,11 @@
 # Artificial-Intelligence---The-PacMan-Projects
 
-This project is based on The Pac-Man projects developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley.
+This project work is a part of Artificial Intelligence coursework at the University of Oulu.
+Link: https://weboodi.oulu.fi/oodi/opintjakstied.jsp?Kieli=6&Tunniste=521495A&html=1
 
-We implement artifical intelligence of agents in Pac-Man world. Use commands below to run the client with the desired algorithm.
+This project is based on The Pac-Man projects developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley. Link: http://ai.berkeley.edu/project_overview.html
+
+We implement artifical intelligence of agents in the Pac-Man world. Use commands below to run the client with the desired algorithm.
 
 You should be able to play a game of Pac-Man by typing the following at the command line:
 
