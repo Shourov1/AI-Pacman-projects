@@ -1,17 +1,33 @@
 # Artificial-Intelligence---The-PacMan-Projects
 
-This project work is a part of Artificial Intelligence coursework at the University of Oulu.
+This project work is a part of Artificial Intelligence coursework at the [University of Oulu](http://www.oulu.fi/university/).
 Link: https://weboodi.oulu.fi/oodi/opintjakstied.jsp?Kieli=6&Tunniste=521495A&html=1
 
 This project is based on The Pac-Man projects developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley. Link: http://ai.berkeley.edu/project_overview.html
 
-We implement artifical intelligence of agents in the Pac-Man world. Use commands below to run the client with the desired algorithm.
+We implement artifical intelligence of agents in the [Pacman](https://en.wikipedia.org/wiki/Pac-Man) world. Use commands below to run the client with the desired algorithm.
+
+## Getting started
+
+Follow the instructions below to get started.
+
+### Prerequisites
+
+The code is written in [Python 2.7](https://www.python.org/download/releases/2.7/).
+
+
+## Running the program
 
 You should be able to play a game of Pac-Man by typing the following at the command line:
 
 ```
 $ python pacman.py
 ```
+
+## Built with
+
+* [Python 2.7](https://www.python.org/download/releases/2.7/)
+
 
 ## Search
 
@@ -77,7 +93,7 @@ $ python pacman.py -p ExpectimaxAgent -l trappedClassic -a depth=3 -q -n 10
 
 ## Evaluation
 
-These are the command for obtaining evaluation results presented in the paper.
+These are the command for obtaining evaluation results.
 
 #### Open Classic Maze
 
@@ -132,3 +148,13 @@ $ python pacman.py -p MinimaxAgent -l trappedClassic -a depth=3 -q -n 10
 $ python pacman.py -p AlphaBetaAgent -l trappedClassic -a depth=3 -q -n 10
 $ python pacman.py -p ExpectimaxAgent -l trappedClassic -a depth=3 -q -n 10
 ```
+
+## Author
+
+* **Md Shariful Alam** - [Shariful](https://github.com/Shourov1)
+
+## Acknowledgments
+
+* [The UniOulu AI course and its teachers](https://noppa.oulu.fi/noppa/kurssi/521495a/)
+* [The Berkeley AI course](http://ai.berkeley.edu/home.html) - For providing the original materials!
+* [The University of Oulu](http://www.oulu.fi/university/) - For providing this awesome course!
