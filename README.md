@@ -2,7 +2,7 @@
 
 This project work is a part of Artificial Intelligence [coursework](https://weboodi.oulu.fi/oodi/opintjakstied.jsp?Kieli=6&Tunniste=521495A&html=1) at the [University of Oulu](http://www.oulu.fi/university/). 
 
-This project is based on The Pac-Man projects developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley. Link: http://ai.berkeley.edu/project_overview.html
+This project is based on [The Pac-Man projects](http://ai.berkeley.edu/project_overview.html) developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley.
 
 We implement artifical intelligence of agents in the [Pacman](https://en.wikipedia.org/wiki/Pac-Man) world. Use commands below to run the client with the desired algorithm.
 
