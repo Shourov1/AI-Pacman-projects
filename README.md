@@ -1,5 +1,7 @@
 # Artificial-Intelligence---The-PacMan-Projects
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project work is a part of Artificial Intelligence [coursework](https://weboodi.oulu.fi/oodi/opintjakstied.jsp?Kieli=6&Tunniste=521495A&html=1) at the [University of Oulu](http://www.oulu.fi/university/). 
 
 This project is based on [The Pac-Man projects](http://ai.berkeley.edu/project_overview.html) developed by John DeNero, Dan Klein, and Pieter Abbeel at UC Berkeley.
